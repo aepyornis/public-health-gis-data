@@ -11,10 +11,12 @@
 *   [NHGIS](https://www.nhgis.org/) - Historical Census Data
 *   [TIGER/LINE Geography](https://www.census.gov/geo/maps-data/data/tiger-line.html)
 
-## New York
+## New York (State and City)
 
 *   [NY State Health data](https://health.data.ny.gov/)
 *   [NYC Department of City Planning](http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml)
+*   [NYC Open Data](https://data.cityofnewyork.us/)
+*   [NYS Open Data](https://data.ny.gov/)
 *   [HPD OPEN Data](http://www.nyc.gov/html/hpd/html/pr/HPD-Open-Data.shtml)
 *   [NYC Community Air Survey](http://www.nyc.gov/html/doh/html/environmental/community-air-survey.shtml)
 *   [Environmental & Health Data Portal](http://a816-dohbesp.nyc.gov/IndicatorPublic/publictracking.aspx)
@@ -30,6 +32,8 @@
 *   [Data.gov](https://catalog.data.gov/dataset)
 *   [EPA EnviroFacts](http://www.epa.gov/enviro/)
 *   [GeoPlatform.gov](http://www.geoplatform.gov/)
+*   [Libre Map](http://libremap.org/)
+*   [National Land Cover Database](http://www.mrlc.gov/index.php)
 
 ## Medical Data
 
@@ -41,6 +45,11 @@
 *   [Pan American Health Organization](http://bit.ly/1DNMccM)
 *   [National Cancer Institute](http://gis.cancer.gov/)
 *   [Public Health Disparities Geocoding Project Monograph](http://www.hsph.harvard.edu/thegeocodingproject/)
+
+## GIS data links
+
+* [Geolode](http://geolode.org/)
+* [Open GeoPortal](http://data.opengeoportal.org/)
 
 ## Global
 
@@ -63,6 +72,7 @@
 *   [CGIAR-CSI](http://srtm.csi.cgiar.org/)
 *   [Global placenames](http://www.geonames.org/)
 *   [Wildlife Data integration Network](http://www.wdin.org/)
+*   [Global Administrative Areas](http://www.gadm.org/)
 
 ## Climate Change
 
