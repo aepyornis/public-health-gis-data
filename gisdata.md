@@ -23,6 +23,7 @@
 *   [NYC Geodatabase](http://www.baruch.cuny.edu/geoportal/nyc_gdb/)
 *   [NYSGIS Clearinghouse](https://gis.ny.gov/gisdata/)
 *   [Long Island Breast Cancer Studies](http://li-gis.cancer.gov/)
+*   [Baruch Guide to NYC data](guides.newman.baruch.cuny.edu/nyc_data)
 
 ## USA
 
