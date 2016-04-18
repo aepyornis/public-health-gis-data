@@ -51,6 +51,7 @@
 
 * [Geolode](http://geolode.org/)
 * [Open GeoPortal](http://data.opengeoportal.org/)
+* [ArcGIS Open Data](http://opendata.arcgis.com/)
 
 ## Global
 
