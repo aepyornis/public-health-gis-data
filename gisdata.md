@@ -52,6 +52,7 @@
 * [Geolode](http://geolode.org/)
 * [Open GeoPortal](http://data.opengeoportal.org/)
 * [ArcGIS Open Data](http://opendata.arcgis.com/)
+* [CartoDB's list of data resources](http://docs.cartodb.com/cartodb-editor/datasets/#locating-geospatial-and-mappable-data)
 
 ## Global
 
