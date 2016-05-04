@@ -77,6 +77,7 @@
 *   [Wildlife Data integration Network](http://www.wdin.org/)
 *   [Global Administrative Areas](http://www.gadm.org/)
 *   [Open Flights](http://openflights.org/data.html) - Airport, airline and route data
+*   [GDELT](http://gdeltproject.org)
 
 ## Climate Change
 
