@@ -114,7 +114,7 @@
 *   [Airpot, Airline and route data](http://openflights.org/data.html)
 *   [Travel Times](http://bioval.jrc.ec.europa.eu/products/gam/index.htm)
 *   [Internet maps (maps of the internet?!)](http://www.netdimes.org/new/?q=node/65)
-*   [https://osf.io/p9ixw/](The OKCupid dataset: A very large public dataset of dating site users)
+*   [The OKCupid dataset: A very large public dataset of dating site users](https://osf.io/p9ixw/)
 
 ## USA maps by state
 
